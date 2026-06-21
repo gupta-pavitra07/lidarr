@@ -1,0 +1,6 @@
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/export/CsvExporterTest.java
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/processing/GridAggregatorTest.java
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/processing/GridPartitionerTest.java
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/processing/StatisticsSummarizerTest.java
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/reader/PointCloudReaderTest.java
+/Users/pavitragupta/coding/Lidarjava/lidar-data-processor/src/test/java/com/lidar/validator/DataValidatorTest.java
